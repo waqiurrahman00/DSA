@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <img src='public/ChatGPT_Image_Jul_19__2025__05_18_39_AM-removebg-preview(3).png' alt='logo' width={40} />
+              <img src='/ChatGPT_Image_Jul_19__2025__05_18_39_AM-removebg-preview(3).png' alt='logo' width={40} />
               <span className="text-xl font-bold">Delhi Safety Academy</span>
             </div>
             <p className="text-gray-300 mb-4">
