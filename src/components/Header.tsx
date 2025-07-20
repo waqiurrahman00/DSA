@@ -22,7 +22,7 @@ const Header = () => {
 <div className="flex items-center space-x-2">
   <Link to="/" className="flex-shrink-0">
     <img
-      src="public/ChatGPT_Image_Jul_19__2025__05_18_39_AM-removebg-preview(3).png"
+      src="/ChatGPT_Image_Jul_19__2025__05_18_39_AM-removebg-preview(3).png"
       alt="logo"
       width={50}
       className="object-contain"
